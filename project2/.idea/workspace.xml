@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f306bec-f539-412b-88ad-6dd3bf5ac41c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../project1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../project1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiagent/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/multiagent/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiagent/.idea/multiagent.iml" beforeDir="false" afterPath="$PROJECT_DIR$/multiagent/.idea/multiagent.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiagent/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/multiagent/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiagent/multiAgents.py" beforeDir="false" afterPath="$PROJECT_DIR$/multiagent/multiAgents.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +19,7 @@
         <entry file="file://$PROJECT_DIR$/multiagent/multiAgents.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+              <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -107,6 +110,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
@@ -137,7 +141,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="43" width="1400" height="777" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24945612" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -159,15 +162,12 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/multiagent/autograder.py">
+    <entry file="file://$PROJECT_DIR$/multiagent/multiAgents.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        <state relative-caret-position="210">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/multiagent/pacman.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/multiagent/util.py">
       <provider selected="true" editor-type-id="text-editor" />
@@ -182,12 +182,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/multiagent/multiAgents.py">
+    <entry file="file://$PROJECT_DIR$/multiagent/autograder.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        <state relative-caret-position="300">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multiagent/pacman.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
